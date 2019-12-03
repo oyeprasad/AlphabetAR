@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 171145338
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: model.apple
+      Dependencies: {}
+    Info_1:
+      Name: model.ball
+      Dependencies: {}
+    Info_2:
+      Name: model.cat
+      Dependencies: {}
+    Info_3:
+      Name: model.dog
+      Dependencies: {}
+    Info_4:
+      Name: model.elephant
+      Dependencies: {}
+    Info_5:
+      Name: model.graps
+      Dependencies: {}
+    Info_6:
+      Name: model.frog
+      Dependencies: {}
+    Info_7:
+      Name: model.horse
+      Dependencies: {}
+    Info_8:
+      Name: model.icecream
+      Dependencies: {}
+    Info_9:
+      Name: model.jug
+      Dependencies: {}
+    Info_10:
+      Name: model.kite
+      Dependencies: {}
+    Info_11:
+      Name: model.lion
+      Dependencies: {}
+    Info_12:
+      Name: model.monkey
+      Dependencies: {}
+    Info_13:
+      Name: model.nest
+      Dependencies: {}
+    Info_14:
+      Name: model.orange
+      Dependencies: {}
+    Info_15:
+      Name: model.parrot
+      Dependencies: {}
+    Info_16:
+      Name: model.queen
+      Dependencies: {}
+    Info_17:
+      Name: model.rabbit
+      Dependencies: {}
+    Info_18:
+      Name: model.sun
+      Dependencies: {}
+    Info_19:
+      Name: model.tiger
+      Dependencies: {}
+    Info_20:
+      Name: model.umbrella
+      Dependencies: {}
+    Info_21:
+      Name: model.van
+      Dependencies: {}
+    Info_22:
+      Name: model.watermellon
+      Dependencies: {}
+    Info_23:
+      Name: model.xmas
+      Dependencies: {}
+    Info_24:
+      Name: model.yachit
+      Dependencies: {}
+    Info_25:
+      Name: model.zebra
+      Dependencies: {}

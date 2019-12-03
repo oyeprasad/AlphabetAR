@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1775962601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9f5f27cf5457a5357e76714785cfb70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b727fe920338b73cd4b32587ca66dafe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Alphabet/Frog.fbx
+Dependencies: []
